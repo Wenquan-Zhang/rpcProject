@@ -1,0 +1,8 @@
+package com.xtwy.netty.util;
+
+public class ResponseUtil {
+	public static Response createSuccessResponse() {
+		return ;
+	}
+
+}

@@ -1,0 +1,13 @@
+content_assist_autoactivation_triggers_java=.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="io.netty.util.concurrent.EventExecutorGroup"><rhs name\="io.netty.channel.nio.NioEventLoopGroup"/></lhs><lhs name\="java.util.concurrent.ScheduledExecutorService"><rhs name\="io.netty.channel.nio.NioEventLoopGroup"/></lhs><lhs name\="java.util.concurrent.ExecutorService"><rhs name\="io.netty.channel.nio.NioEventLoopGroup"/></lhs><lhs name\="java.util.concurrent.Executor"><rhs name\="io.netty.channel.nio.NioEventLoopGroup"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="io.netty.channel.nio.NioEventLoopGroup"/></lhs><lhs name\="io.netty.channel.EventLoopGroup"><rhs name\="io.netty.channel.nio.NioEventLoopGroup"/></lhs><lhs name\="io.netty.bootstrap.AbstractBootstrap"><rhs name\="io.netty.bootstrap.ServerBootstrap"/><rhs name\="io.netty.bootstrap.Bootstrap"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="io.netty.bootstrap.ServerBootstrap"/><rhs name\="io.netty.bootstrap.Bootstrap"/></lhs><lhs name\="io.netty.bootstrap.ServerBootstrap"><rhs name\="io.netty.bootstrap.ServerBootstrap"/></lhs><lhs name\="io.netty.util.AbstractConstant"><rhs name\="io.netty.channel.ChannelOption"/></lhs><lhs name\="io.netty.util.Constant"><rhs name\="io.netty.channel.ChannelOption"/></lhs><lhs name\="io.netty.channel.ChannelOption"><rhs name\="io.netty.channel.ChannelOption"/></lhs><lhs name\="io.netty.channel.ChannelHandler"><rhs name\="io.netty.handler.codec.DelimiterBasedFrameDecoder"/><rhs name\="io.netty.handler.codec.string.StringDecoder"/><rhs name\="io.netty.handler.codec.string.StringEncoder"/><rhs name\="com.xtwy.netty.handler.SimpleClientHandler"/></lhs><lhs name\="org.apache.curator.RetryPolicy"><rhs name\="org.apache.curator.retry.ExponentialBackoffRetry"/></lhs><lhs name\="java.net.InetAddress"><rhs name\="java.net.InetAddress"/></lhs><lhs name\="java.lang.Enum"><rhs name\="org.apache.zookeeper.CreateMode"/></lhs><lhs name\="io.netty.bootstrap.Bootstrap"><rhs name\="io.netty.bootstrap.Bootstrap"/></lhs></history>
+content_assist_number_of_computers=15
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=1
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=23
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

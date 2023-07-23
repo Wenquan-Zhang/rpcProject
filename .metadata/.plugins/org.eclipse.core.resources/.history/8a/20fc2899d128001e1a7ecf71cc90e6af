@@ -1,0 +1,5 @@
+package com.xtwy.user.bean;
+
+public class User {
+
+}

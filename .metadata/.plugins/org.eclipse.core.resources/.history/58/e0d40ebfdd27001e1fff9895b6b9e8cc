@@ -1,0 +1,5 @@
+package com.xtwy.netty.handler;
+
+public class SimpleClientHandler {
+
+}

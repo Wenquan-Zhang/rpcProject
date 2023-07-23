@@ -1,0 +1,5 @@
+package com.xtwy.client.proxy;
+
+public class InvokeProxy {
+
+}

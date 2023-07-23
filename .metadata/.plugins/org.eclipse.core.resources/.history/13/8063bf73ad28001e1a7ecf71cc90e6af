@@ -1,0 +1,5 @@
+package com.xtwy.netty.client;
+
+public class DefaultFuture {
+
+}

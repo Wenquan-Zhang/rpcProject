@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestTcp" project="pro-netty-rpc" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="com.xtwy.pro_netty_rpc.TestTcp" time="0.514">
+    <testcase name="testSaveUser" classname="com.xtwy.pro_netty_rpc.TestTcp" time="0.512"/>
+    <testcase name="testGetResponse" classname="com.xtwy.pro_netty_rpc.TestTcp" time="0.002"/>
+  </testsuite>
+</testrun>

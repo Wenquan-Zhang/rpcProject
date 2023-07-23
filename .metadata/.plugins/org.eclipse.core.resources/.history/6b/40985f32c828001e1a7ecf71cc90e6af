@@ -1,0 +1,32 @@
+package com.xtwy.netty.medium;
+
+import java.util.HashMap;
+import java.util.Map;
+
+import com.xtwy.netty.handler.param.ServerRequest;
+
+public class Media {
+	public static Map<String, BeanMethod> beanMap;
+	
+	static {
+		beanMap = new HashMap<String,BeanMethod>();
+	}
+	
+	private static Media m =null;
+	private Media() {
+		
+	}
+	
+	public static Media newInstance() {
+		if(m==null) {
+			m=new Media();
+		}
+		return m;
+	}
+
+	public Object process(ServerRequest request) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

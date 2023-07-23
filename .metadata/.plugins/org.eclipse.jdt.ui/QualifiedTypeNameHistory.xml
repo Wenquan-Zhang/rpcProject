@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="io.netty.bootstrap.ServerBootstrap"/>
+    <fullyQualifiedTypeName name="io.netty.channel.socket.nio.NioServerSocketChannel"/>
+    <fullyQualifiedTypeName name="org.apache.curator.RetryPolicy"/>
+    <fullyQualifiedTypeName name="org.apache.curator.retry.ExponentialBackoffRetry"/>
+    <fullyQualifiedTypeName name="org.apache.curator.framework.CuratorFrameworkFactory"/>
+    <fullyQualifiedTypeName name="org.apache.curator.framework.CuratorFramework"/>
+    <fullyQualifiedTypeName name="com.xtwy.netty.factory.ZookeeperFactory"/>
+    <fullyQualifiedTypeName name="java.net.InetAddress"/>
+    <fullyQualifiedTypeName name="org.apache.zookeeper.CreateMode"/>
+    <fullyQualifiedTypeName name="com.xtwy.netty.constant.Constants"/>
+    <fullyQualifiedTypeName name="io.netty.channel.EventLoopGroup"/>
+    <fullyQualifiedTypeName name="io.netty.channel.nio.NioEventLoopGroup"/>
+    <fullyQualifiedTypeName name="io.netty.bootstrap.Bootstrap"/>
+    <fullyQualifiedTypeName name="io.netty.channel.socket.nio.NioSocketChannel"/>
+    <fullyQualifiedTypeName name="io.netty.channel.ChannelOption"/>
+    <fullyQualifiedTypeName name="io.netty.channel.ChannelInitializer"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="io.netty.channel.socket.SocketChannel"/>
+    <fullyQualifiedTypeName name="org.springframework.aop.ThrowsAdvice"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="io.netty.handler.codec.DelimiterBasedFrameDecoder"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="io.netty.handler.codec.Delimiters"/>
+    <fullyQualifiedTypeName name="io.netty.handler.codec.string.StringDecoder"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="io.netty.handler.codec.string.StringEncoder"/>
+    <fullyQualifiedTypeName name="io.netty.channel.ChannelFuture"/>
+    <fullyQualifiedTypeName name="io.netty.channel.ChannelInboundHandlerAdapter"/>
+    <fullyQualifiedTypeName name="com.xtwy.netty.handler.SimpleClientHandler"/>
+</qualifiedTypeNameHistroy>

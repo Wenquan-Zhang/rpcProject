@@ -1,0 +1,5 @@
+package com.xtwy.netty.annotation;
+
+public class Remote {
+
+}

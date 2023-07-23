@@ -1,0 +1,5 @@
+package com.xtwy.user.remote;
+
+public class UserRemoteImpl {
+
+}
